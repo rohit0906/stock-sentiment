@@ -12,4 +12,5 @@ pandas>=0.19
 nltk>=3.4.5
 tesseract>0.0.1
 tesseract-ocr<4.0.0
+tesseract_ocr<4.0.0
 pytesseract>=0.3.5
