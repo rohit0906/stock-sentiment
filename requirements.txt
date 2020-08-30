@@ -12,3 +12,6 @@ pandas>=0.19
 nltk>=3.4.5
 tesseract-ocr<4.0.0
 pytesseract>=0.3.5
+libicu-dev>0.0
+libpango1.0-dev>0.0
+libcairo2-dev>0.0
