@@ -23,11 +23,4 @@ Web-App is used to upload an image of the news article that needs to be analyzed
 📌 Used Random Forest Classifier, Multinational Naive Bayes, and Passive-Aggressive Classifier for analysis.
 
 ## Screenshots
-<img alt="Home Page" src="images/Screenshot from 2020-09-21 16-21-48.png" align="left" height="350" width="347" >
-
-<img alt="Uploading Image" src="images/Screenshot from 2020-09-21 16-21-13.png" align="left" height="350" width="347" >
-<img alt="Predicted result" src="images/Screenshot from 2020-09-21 16-21-04.png" align="left" height="350" width="347" >
-
-
-<img alt="Uploading Image" src="images/Screenshot from 2020-09-21 16-21-27.png" align="left" height="350" width="347" >
-<img alt="Predicted Result" src="images/Screenshot from 2020-09-21 16-22-35.png" align="left" height="350" width="347" >
+<img alt="Home Page" src="images/output.gif" align="left" height="350" width="347" >
