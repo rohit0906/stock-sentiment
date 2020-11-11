@@ -1,5 +1,5 @@
 # Stock Sentiment Analysis using News Articles
-
+<img alt="Home Page" src="images/output.gif" align="center" height="350" width="347">
 ## Idea
 The idea is to analyze the image or screenshot of a news article and predict whether the stock price will go up or down.
 
